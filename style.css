@@ -1,0 +1,105 @@
+
+body {
+    
+    font-family: 'Lexend Deca';
+    font-size: 15px;
+    
+}
+
+p {
+    margin-left: 35px;
+    font-family: 'Big Shoulders Display';
+    font-size: 13px;
+    line-height: 1.5;
+    
+}
+
+.container {
+    
+    display: flex;
+    justify-content: center;
+   
+    }
+
+.item-1 {
+    
+    flex-direction: column;
+    display: flex;
+    background-color:hsl(31, 77%, 52%);
+    color: white;
+    font-size: 16px;
+   
+    
+
+}
+
+
+.item-2 {
+    flex-direction: column;
+     display: flex;
+    background-color: Darkcyan;
+    color: white;
+    font-size: 16px;
+    
+    
+   
+}
+
+.item-3 {
+    flex-direction: column;
+    display: flex;
+    background-color:  hsl(179, 100%, 13%);
+    color: white;
+    font-size: 16px;
+    
+}
+
+
+.botao-1 {
+     
+    padding: 10px;
+    margin:100px;
+    color:hsl(0, 0%, 95%);
+    color:hsl(31, 77%, 52%);
+     border-radius: 10%;
+    border-radius: 100px;
+    width: 100px;
+    border: none;
+
+}
+
+.botao-2 {
+     
+    padding: 10px;
+    margin: 100px;
+    color: Darkcyan;
+    border-radius: 10%;
+    border-radius: 100px;
+    width: 100px;
+    border: none;
+    
+
+   
+}
+
+.botao-3 {
+    padding: 10px;
+    margin: 100px;
+    color: white;
+    color: hsl(179, 100%, 13%);
+    border-radius: 10%;
+    border-radius: 100px;
+    width: 100px;
+    border: none;
+    
+
+    
+}
+
+
+
+       
+       
+    
+
+
